@@ -1,4 +1,4 @@
-# Course-work-on-OOP.-Class-Probabilistic-Researcher-
+# Course-work-on-OOP.-Class-Probabilistic-Researcher-(2019)
 Задание:
 Разработать класс «Вероятностный исследователь». Поле данных – входной числовой массив. Методы возвращают его различные вероятностные характеристики
 
